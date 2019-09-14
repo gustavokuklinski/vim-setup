@@ -1,7 +1,8 @@
-# Vim Editor
+# Vim Setup
 Arquivo pessoal do editor Vim.
+HTML, CSS, JS, Ruby, PHP
 
-Gerado por: vim-bootstrap
+Gerado por: [vim-bootstrap](https://github.com/avelino/vim-bootstrap)
 
 ### Debian
 
@@ -9,8 +10,7 @@ Gerado por: vim-bootstrap
 $ sudo apt-get install git exuberant-ctags ncurses-term curl
 ```
 
-### Comandos
-Commands | Descriptions
+Comandos | Descrição
 --- | ---
 `:cd <path>` | Open path */path*
 <kbd>Ctrl</kbd><kbd>w</kbd>+<kbd>h</kbd><kbd>j</kbd><kbd>k</kbd><kbd>l</kbd> | Navigate via split panels
