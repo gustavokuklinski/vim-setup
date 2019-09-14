@@ -1,0 +1,2 @@
+" Vim local - GK
+let g:snips_author = "Gustavo Kuklinski"
