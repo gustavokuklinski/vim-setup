@@ -44,6 +44,8 @@ Comandos | Descrição
 <kbd>,</kbd><kbd>s</kbd><kbd>s</kbd> | Save Session
 <kbd>,</kbd><kbd>s</kbd><kbd>d</kbd> | Delete Session
 <kbd>,</kbd><kbd>s</kbd><kbd>c</kbd> | Close Session
+<kbd>,</kbd><kbd>m</kbd><kbd>m</kbd> | Open minimap
+<kbd>,</kbd><kbd>m</kbd><kbd>c</kbd> | Close minimap 
 <kbd>></kbd> | indent to right
 <kbd><</kbd> | indent to left
 <kbd>g</kbd><kbd>c</kbd> | Comment or uncomment lines that {motion} moves over
